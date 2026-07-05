@@ -1,0 +1,7 @@
+component,Spain,Portugal
+Baseline attack vs opponent defence,1.5357,1.2499
+Spain control / Portugal suppression,0.147,-0.0277
+Chance quality adjustment,0.0383,0.0128
+Portugal transition adjustment,-0.0092,-0.033
+Set-piece adjustment,0.008,-0.001
+Final model xG,1.7198,1.201

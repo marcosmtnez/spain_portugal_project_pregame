@@ -1,0 +1,15 @@
+metric,team,previous_low,previous_mid,previous_high,actual,unit
+Possession,Spain,63,67,71,64,%
+Possession,Austria,31,33,35,36,%
+xG,Spain,1.50,1.90,2.30,2.45,xG
+xG,Austria,0.60,0.75,0.90,0.55,xG
+Goals,Spain,1.00,1.85,2.70,3.00,goals
+Goals,Austria,0.40,0.75,1.10,0.00,goals
+Shots,Spain,13,16.5,20,17,shots
+Shots,Austria,5,6.5,8,6,shots
+Shots on target,Spain,4,5,6,7,shots
+Shots on target,Austria,2,2.5,3,2,shots
+High recoveries,Spain,6,7.5,9,12,recoveries
+High recoveries,Austria,7,9,11,5,recoveries
+Dangerous turnovers,Spain,5,7,9,5,turnovers
+Dangerous turnovers,Austria,8,10,12,9,turnovers

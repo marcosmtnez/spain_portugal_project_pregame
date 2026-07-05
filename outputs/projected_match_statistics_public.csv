@@ -1,0 +1,17 @@
+metric,team,mid,low,high,axis_low,axis_high
+Possession (%),Spain,57.3659,54.3659,60.3659,30,70.0
+Possession (%),Portugal,42.6341,39.6341,45.6341,30,70.0
+xG,Spain,1.6929,1.3661,2.0196,0,3.2
+xG,Portugal,1.1833,0.9447,1.422,0,3.2
+Goals,Spain,1.7183,1.1683,2.2683,0,4.0
+Goals,Portugal,1.1956,0.6456,1.7456,0,4.0
+Shots,Spain,12.8337,10.8337,14.8337,5,22.0
+Shots,Portugal,10.9692,8.9692,12.9692,5,22.0
+Shots on target,Spain,4.9183,4.1183,5.7183,1,8.0
+Shots on target,Portugal,4.1545,3.3545,4.9545,1,8.0
+Corners,Spain,5.6868,4.4868,6.8868,0,10.0
+Corners,Portugal,4.7872,3.6872,5.8872,0,10.0
+Passes completed,Spain,589.932,544.932,634.932,250,700.0
+Passes completed,Portugal,473.0144,433.0144,513.0144,250,700.0
+Fouls committed,Spain,12.0861,9.5861,14.5861,5,24.0
+Fouls committed,Portugal,12.498,9.998,14.998,5,24.0
